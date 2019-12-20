@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2979a2d5-8cae-4b62-a8c5-f90cab93056a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/236363_spring_18_hw2$OurTests_getMimounalistTotalGuests.ic" NAME="OurTests.getMimounalistTotalGuests Coverage Results" MODIFIED="1555597313840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>technify.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModulesForAggregators" value="false" />
+        <option name="dedicatedModuleDir" value="C:\Users\moshesebag\Desktop\236363_winter_18-19_hw2" />
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RvylSOoKDJg3UdamdqFLylYeaV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="236363_spring_18_hw2" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555774732438" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Peleg\OneDrive - Technion\עבודה\ממן\236363_winter_18-19_hw2\src\test\java\technify" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MegaTest">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="olympic.Example" />
+      <module name="7_12_2019_11_56" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="olympic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicAPITests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="236363_winter_18-19_hw2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="olympic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="olympic" />
+      <option name="MAIN_CLASS_NAME" value="olympic.BasicAPITests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradingTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="236363_winter_18-19_hw2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="olympic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="olympic" />
+      <option name="MAIN_CLASS_NAME" value="olympic.GradingTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MegaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_12_2019_11_56" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="olympic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="olympic" />
+      <option name="MAIN_CLASS_NAME" value="olympic.MegaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="7_12_2019_11_56" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="olympic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="olympic" />
+      <option name="MAIN_CLASS_NAME" value="olympic.SimpleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Example" />
+      <item itemvalue="JUnit.GradingTests" />
+      <item itemvalue="JUnit.BasicAPITests" />
+      <item itemvalue="JUnit.SimpleTest" />
+      <item itemvalue="JUnit.MegaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MegaTest" />
+        <item itemvalue="JUnit.SimpleTest" />
+        <item itemvalue="Application.Example" />
+        <item itemvalue="JUnit.BasicAPITests" />
+        <item itemvalue="JUnit.GradingTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2979a2d5-8cae-4b62-a8c5-f90cab93056a" name="Default Changelist" comment="" />
+      <created>1543185204645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543185204645</updated>
+      <workItem from="1543185206641" duration="739000" />
+      <workItem from="1543314860494" duration="1112000" />
+      <workItem from="1543345644190" duration="1245000" />
+      <workItem from="1555506813090" duration="4022000" />
+      <workItem from="1555583789632" duration="14933000" />
+      <workItem from="1555607834074" duration="15253000" />
+      <workItem from="1555773876062" duration="858000" />
+      <workItem from="1570562186363" duration="19526000" />
+      <workItem from="1570624368174" duration="20014000" />
+      <workItem from="1570732513860" duration="30000" />
+      <workItem from="1570732958853" duration="106000" />
+      <workItem from="1570734065448" duration="19000" />
+      <workItem from="1570734221293" duration="8000" />
+      <workItem from="1570735480422" duration="106000" />
+      <workItem from="1570735684317" duration="188000" />
+      <workItem from="1570735929718" duration="224000" />
+      <workItem from="1570736809339" duration="196000" />
+      <workItem from="1570737079348" duration="102000" />
+      <workItem from="1570737351961" duration="264000" />
+      <workItem from="1570737663777" duration="607000" />
+      <workItem from="1570738286521" duration="122000" />
+      <workItem from="1570738472638" duration="1524000" />
+      <workItem from="1570740039965" duration="769000" />
+      <workItem from="1570740915812" duration="453000" />
+      <workItem from="1570741412908" duration="38000" />
+      <workItem from="1570741651906" duration="614000" />
+      <workItem from="1570743270676" duration="26395000" />
+      <workItem from="1570822243551" duration="886000" />
+      <workItem from="1570881289286" duration="3000" />
+      <workItem from="1570888161169" duration="28000" />
+      <workItem from="1570888215577" duration="16000" />
+      <workItem from="1575756721940" duration="138493000" />
+      <workItem from="1576244133640" duration="1007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="330" y="0" width="994" height="824" key="#BasicAPITests" timestamp="1575831957859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="0" width="994" height="824" key="#BasicAPITests/0.0.1536.824@0.0.1536.824" timestamp="1575831957859" />
+    <state x="467" y="0" width="620" height="824" key="#MainTests" timestamp="1575831167670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="0" width="620" height="824" key="#MainTests/0.0.1536.824@0.0.1536.824" timestamp="1575831167670" />
+    <state x="161" y="0" key="#Project_Structure" timestamp="1575759599874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1575759599874" />
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575831084578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1575831084578" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1575988559163">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1575988559163" />
+    <state x="310" y="53" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575831150549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="310" y="53" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1575831150549" />
+    <state width="1532" height="202" key="DebuggerActiveHint" timestamp="1576073168795">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1532" height="202" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1576073168795" />
+    <state x="449" y="50" key="FileChooserDialogImpl" timestamp="1575759593235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="50" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575759593235" />
+    <state width="1467" height="229" key="GridCell.Tab.0.bottom" timestamp="1576100577526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="229" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576100577526" />
+    <state width="1467" height="229" key="GridCell.Tab.0.center" timestamp="1576100577526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="229" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576100577526" />
+    <state width="1467" height="229" key="GridCell.Tab.0.left" timestamp="1576100577526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="229" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576100577526" />
+    <state width="1467" height="229" key="GridCell.Tab.0.right" timestamp="1576100577526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="229" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576100577526" />
+    <state width="1467" height="235" key="GridCell.Tab.1.bottom" timestamp="1576098245971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="235" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576098245971" />
+    <state width="1467" height="235" key="GridCell.Tab.1.center" timestamp="1576098245971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="235" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576098245971" />
+    <state width="1467" height="235" key="GridCell.Tab.1.left" timestamp="1576098245971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="235" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576098245971" />
+    <state width="1467" height="235" key="GridCell.Tab.1.right" timestamp="1576098245971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1467" height="235" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576098245971" />
+    <state x="0" y="0" width="1536" height="824" key="SettingsEditor" timestamp="1575823064724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1536" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575823064724" />
+    <state width="586" height="559" key="SwitcherDM" timestamp="1576035474526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="586" height="559" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1576035474526" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1575991038216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1575991038216" />
+    <state x="426" y="138" key="com.intellij.ide.util.TipDialog" timestamp="1576244133631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="138" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576244133631" />
+    <state x="177" y="-2" width="1177" height="1976" key="search.everywhere.popup" timestamp="1575934079318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="177" y="-2" width="1177" height="1976" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1575934079318" />
+  </component>
+</project>
